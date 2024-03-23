@@ -1,4 +1,4 @@
-* Çekiliş Ekranı Uygulaması README *
+*Çekiliş Ekranı Uygulaması README*
 
 Bu uygulama, Java programlama dili kullanılarak geliştirilmiş bir çekiliş ekranı sunmaktadır. Aşağıda uygulamanın kullanımı, dosya yapısı ve gereksinimler hakkında bilgiler bulunmaktadır.
 
